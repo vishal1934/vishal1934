@@ -32,7 +32,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishal1934&" alt="vishal1934" /></p>
 
 ### Hi there 👋
-Author -- vishal raj 
+<h1> Author -- vishal raj </h4>
 
 <!--
 **vishal1934/vishal1934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
